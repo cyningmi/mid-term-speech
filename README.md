@@ -1,4 +1,4 @@
 mid-term-speech
 ===============
 
-a speech based on impress.js instand of PPT.
+a speech based on impress.js instead of PPT.
